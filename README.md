@@ -1,3 +1,17 @@
+Important
+-------
+> _- Virtual machine drivers may generate incompatibility leading to a premature **BSOD** during execution, I recommend approval without incremental virtualization drivers for very outdated systems._  
+> _- Tested in **Hyper-V** and **VMware Workstation** virtual environments_  
+> _- Tested on Dell Latitude 15 hardware_  
+> _- Automatic scripts used over **W10 1803** which automatically updated to **W10 21H2** with name: `auto 21H2 MediaCreationTool.bat`_  
+> _- Automatic scripts used over **W10 1803** which automatically updated to **W10 22H2** with name: `auto 22H2 MediaCreationTool.bat`_  
+
+What is it
+-------
+Not just an Universal MediaCreationTool wrapper script with ingenious support for business editions,  
+<img src="preview.png">  
+A powerful yet simple windows 10 / 11 deployment automation tool as well!  
+*If you had no success launching the script so far, this latest version will work*  
 Not just an Universal MediaCreationTool wrapper script with ingenious support for business editions,  
 <img src="preview.png">  
 A powerful yet simple windows 10 / 11 deployment automation tool as well!  
