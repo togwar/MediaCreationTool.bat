@@ -3,9 +3,9 @@ Important
 > _- Virtual machine drivers may generate incompatibility leading to a premature **BSOD** during execution, I recommend approval without incremental virtualization drivers for very outdated systems._  
 > _- Tested in **Hyper-V** and **VMware Workstation** virtual environments_  
 > _- Tested on Dell Latitude 15 hardware_  
-> _- Automatic scripts used over **W10 1803** which automatically updated to **W10 21H2** with name: `auto 21H2 MediaCreationTool.bat`_  
-> _- Automatic scripts used over **W10 1803** which automatically updated to **W10 22H2** with name: `auto 22H2 MediaCreationTool.bat`_  
-> _- Automatic scripts used over **W10 22H2** (without TPM) which automatically updated to **W11 23H2** with name: `auto 11 MediaCreationTool.bat`_  
+> _- Automatic updated used over **W10 1803** to **W10 21H2** with command: `auto 21H2 MediaCreationTool.bat`_  
+> _- Automatic updated used over **W10 1803** to **W10 22H2** with command: `auto 22H2 MediaCreationTool.bat`_  
+> _- Automatic updated used over **W10 22H2** (without TPM) to **W11 23H2** with command: `auto 11 MediaCreationTool.bat`_  
 
 What is it
 -------
